@@ -12,9 +12,10 @@ But why did I choose Software Development? Simply put, it attracted me the most.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" height="20"> **SQL** – Beginner  
 
 ### Software
-- <img src="https://www.adobe.com/content/dam/acom/en/products/premiere-pro/icon/premierepro_icon_32.svg" height="20"> **Premiere Pro**  
-- <img src="https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/11/word-logo-300x300.png" height="20"> **Microsoft Word**  
-- <img src="https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/11/outlook-logo-300x300.png" height="20"> **Microsoft Outlook**  
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732088.png" height="20"> **Premiere Pro**  
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732091.png" height="20"> **After Effects**  
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732076.png" height="20"> **Microsoft Word**  
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732084.png" height="20"> **Microsoft Outlook**  
 
 ### Languages
 - <img src="https://flagcdn.com/w20/nl.png" height="20"> – Fluent  
