@@ -12,15 +12,14 @@ But why did I choose Software Development? Simply put, it attracted me the most.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" height="20"> **SQL** – Beginner  
 
 ### Software
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Adobe_Premiere_Pro_CC_icon.svg/120px-Adobe_Premiere_Pro_CC_icon.svg.png" height="20"> **Premiere Pro**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/120px-Adobe_After_Effects_CC_icon.svg.png" height="20"> **After Effects**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Microsoft_Word_2013-2019_logo.svg/120px-Microsoft_Word_2013-2019_logo.svg.png" height="20"> **Microsoft Word**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Microsoft_Outlook_2013-2019_logo.svg/120px-Microsoft_Outlook_2013-2019_logo.svg.png" height="20"> **Microsoft Outlook**  
+- <img src="https://www.adobe.com/content/dam/acom/en/products/premiere-pro/icon/premierepro_icon_32.svg" height="20"> **Premiere Pro**  
+- <img src="https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/11/word-logo-300x300.png" height="20"> **Microsoft Word**  
+- <img src="https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2020/11/outlook-logo-300x300.png" height="20"> **Microsoft Outlook**  
 
 ### Languages
-- 🇳🇱 – Fluent  
-- 🇬🇧 – Fluent  
-- 🇩🇪 – Basic knowledge  
+- <img src="https://flagcdn.com/w20/nl.png" height="20"> – Fluent  
+- <img src="https://flagcdn.com/w20/gb.png" height="20"> – Fluent  
+- <img src="https://flagcdn.com/w20/de.png" height="20"> – Basic knowledge  
 
 ## Hobbies & Interests
 - Programming  
