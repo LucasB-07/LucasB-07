@@ -7,9 +7,9 @@ But why did I choose Software Development? Simply put, it attracted me the most.
 
 ## Skills
 ### Programming Languages
-- ![Python](https://www.python.org/static/community_logos/python-logo.png) **Python** – Basic knowledge  
-- ![HTML/CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png) **HTML/CSS** – Beginner  
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png) **SQL** – Beginner  
+- <img src="https://www.python.org/static/community_logos/python-icon.png" height="20"> **Python** – Basic knowledge  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="20"> **HTML/CSS** – Beginner  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" height="20"> **SQL** – Beginner  
 
 ### Software
 - **Premiere Pro, After Effects**  
