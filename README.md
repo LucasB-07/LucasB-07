@@ -7,18 +7,20 @@ But why did I choose Software Development? Simply put, it attracted me the most.
 
 ## Skills
 ### Programming Languages
-- <img src="https://www.python.org/static/community_logos/python-icon.png" height="20"> **Python** – Basic knowledge  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png" height="20"> **Python** – Basic knowledge  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="20"> **HTML/CSS** – Beginner  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" height="20"> **SQL** – Beginner  
 
 ### Software
-- **Premiere Pro, After Effects**  
-- **Microsoft Word, Outlook**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Adobe_Premiere_Pro_CC_icon.svg/120px-Adobe_Premiere_Pro_CC_icon.svg.png" height="20"> **Premiere Pro**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/120px-Adobe_After_Effects_CC_icon.svg.png" height="20"> **After Effects**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Microsoft_Word_2013-2019_logo.svg/120px-Microsoft_Word_2013-2019_logo.svg.png" height="20"> **Microsoft Word**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Microsoft_Outlook_2013-2019_logo.svg/120px-Microsoft_Outlook_2013-2019_logo.svg.png" height="20"> **Microsoft Outlook**  
 
 ### Languages
-- **Dutch** – Fluent  
-- **English** – Fluent  
-- **German** – Basic knowledge  
+- 🇳🇱 – Fluent  
+- 🇬🇧 – Fluent  
+- 🇩🇪 – Basic knowledge  
 
 ## Hobbies & Interests
 - Programming  
