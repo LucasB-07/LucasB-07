@@ -1,3 +1,5 @@
+<div style="background: linear-gradient(135deg, #00FFAB, #006F62); padding: 20px; border-radius: 10px; color: white;">
+
 # 🛠️ Lucas / Lucazzzzz
 
 ## Who am I?
@@ -26,3 +28,5 @@ But why did I choose Software Development? Simply put, it attracted me the most.
 - Browsing the internet  
 - PC gaming  
 - Watching movies and series  
+
+</div>
