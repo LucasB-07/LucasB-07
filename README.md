@@ -12,10 +12,10 @@ But why did I choose Software Development? Simply put, it attracted me the most.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" height="20"> **SQL** – Beginner  
 
 ### Software
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Adobe_Premiere_Pro_CC_icon.svg/120px-Adobe_Premiere_Pro_CC_icon.svg.png" height="20"> **Premiere Pro**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/120px-Adobe_After_Effects_CC_icon.svg.png" height="20"> **After Effects**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Microsoft_Word_2013-2019_logo.svg/120px-Microsoft_Word_2013-2019_logo.svg.png" height="20"> **Microsoft Word**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Microsoft_Outlook_2013-2019_logo.svg/120px-Microsoft_Outlook_2013-2019_logo.svg.png" height="20"> **Microsoft Outlook**  
+- <img src="https://logowik.com/content/uploads/images/adobe-premiere-pro-logo-icon4592.jpg" height="20"> **Premiere Pro**  
+- <img src="https://logowik.com/content/uploads/images/adobe-after-effects-logo-icon.jpg" height="20"> **After Effects**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Microsoft_Word_2021_icon.png/120px-Microsoft_Word_2021_icon.png" height="20"> **Microsoft Word**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Microsoft_Outlook_2021_icon.png/120px-Microsoft_Outlook_2021_icon.png" height="20"> **Microsoft Outlook**  
 
 ### Languages
 - <img src="https://flagcdn.com/20x15/nl.png" width="20" height="20"> – Fluent  
