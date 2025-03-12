@@ -7,15 +7,15 @@ But why did I choose Software Development? Simply put, it attracted me the most.
 
 ## Skills
 ### Programming Languages
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png" height="20"> **Python** – Basic knowledge  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="20"> **HTML/CSS** – Beginner  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" height="20"> **SQL** – Beginner  
+- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" height="20"> **Python** – Basic knowledge  
+- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" height="20"> **HTML/CSS** – Beginner  
+- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql/postgresql-original.svg" height="20"> **SQL** – Beginner  
 
 ### Software
-- <img src="https://logowik.com/content/uploads/images/adobe-premiere-pro-logo-icon4592.jpg" height="20"> **Premiere Pro**  
-- <img src="https://logowik.com/content/uploads/images/adobe-after-effects-logo-icon.jpg" height="20"> **After Effects**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Microsoft_Word_2021_icon.png/120px-Microsoft_Word_2021_icon.png" height="20"> **Microsoft Word**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Microsoft_Outlook_2021_icon.png/120px-Microsoft_Outlook_2021_icon.png" height="20"> **Microsoft Outlook**  
+- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/premierepro/premierepro-original.svg" height="20"> **Premiere Pro**  
+- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/aftereffects/aftereffects-original.svg" height="20"> **After Effects**  
+- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/word/word-original.svg" height="20"> **Microsoft Word**  
+- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/outlook/outlook-original.svg" height="20"> **Microsoft Outlook**  
 
 ### Languages
 - <img src="https://flagcdn.com/20x15/nl.png" width="20" height="20"> – Fluent  
