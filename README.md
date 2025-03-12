@@ -14,8 +14,8 @@ But why did I choose Software Development? Simply put, it attracted me the most.
 ### Software
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/premierepro/premierepro-original.svg" height="20"> **Premiere Pro**  
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/aftereffects/aftereffects-original.svg" height="20"> **After Effects**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Word_2013-2019_logo.svg" height="20"> **Microsoft Word**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" height="20"> **Microsoft Outlook**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Microsoft_Word_logo_%282013-2019%29.png" height="20"> **Microsoft Word**  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Microsoft_Office_Outlook_%282018%E2%80%93present%29.png" height="20"> **Microsoft Outlook**  
 
 ### Languages
 - <img src="https://flagcdn.com/20x15/nl.png" width="20" height="20"> – Fluent  
