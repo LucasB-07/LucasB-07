@@ -5,6 +5,8 @@ Hey there! My name is Lucas, a Dutch student in my first year of Software Develo
 
 But why did I choose Software Development? Simply put, it attracted me the most. I felt a stronger connection once I started creating a Discord Bot. That was enough for me—the trigger.
 
+All Repositories are set on private! I code 90% in Python and 10% in HTML+CSS.
+
 ## Skills
 ### Programming Languages
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" height="20"> **Python** – Basic knowledge  
