@@ -12,7 +12,7 @@ All Repositories are set on private! I code 90% in Python and 10% in HTML+CSS.
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" height="20"> **Python** – Basic knowledge
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/csharp/csharp-original.svg" height="20"> **C#** – beginner
 - <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="20"> **SQL** – beginner
-- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/api/api-original.svg" height="20"> **REST API** – beginner
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/restapi/restapi-original.svg" height="20"> **REST API** – beginner
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" height="20"> **HTML/CSS** – Beginner
 
 ### Software
