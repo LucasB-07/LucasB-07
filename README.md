@@ -1,4 +1,4 @@
-# https://komarev.com/ghpvc/?username=LucasB-07&abbreviated=true&color=ff6f00&style=for-the-badge
+# https://komarev.com/ghpvc/?username=LucasB-07&abbreviated=true&color=ff6f00
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
