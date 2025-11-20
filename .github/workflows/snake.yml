@@ -1,7 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"  # Elke 30 minuten
+  workflow_dispatch:         # Nog steeds handmatig triggeren mogelijk
 
 jobs:
   generate:
