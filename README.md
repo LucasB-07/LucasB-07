@@ -14,7 +14,6 @@
 ```
 
 ## Who am I?
-<img align="right" height="130" src="https://tenor.com/nl/view/hehe-gif-1840159130613519810.gif"  />
 Hey there! My name is Lucas, a Dutch student in my first year of Software Development. I am an IT enthusiast, fascinated by everything related to technology.
 
 I chose Software Development because it clicked with me—especially after creating my first Discord bot. That was the moment I knew this was the right direction.
@@ -36,6 +35,14 @@ All repositories are currently private. I code **90% in Python** and **10% in HT
 ### Software
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/premierepro/premierepro-original.svg" height="20"> **Premiere Pro**
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/aftereffects/aftereffects-original.svg" height="20"> **After Effects**
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LucasB-07/LucasB-07/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### Languages
 - <img src="https://flagcdn.com/20x15/nl.png" width="20" height="20"> – Fluent
