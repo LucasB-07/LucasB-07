@@ -22,7 +22,7 @@ All repositories are currently private. I code **90% in Python** and **10% in HT
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasB-07&show_icons=true&theme=dark&hide_title=true&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LucasB-07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false
+![LucasB-07 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasB-07&show_icons=true&theme=dark&hide_title=true&hide_border=true&card_width=320) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LucasB-07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false
 )
 
 ## Skills
