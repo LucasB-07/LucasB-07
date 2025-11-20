@@ -20,6 +20,12 @@ I chose Software Development because it clicked with me—especially after creat
 
 All repositories are currently private. I code **90% in Python** and **10% in HTML/CSS**.
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasB-07&show_icons=true&theme=dark&hide_title=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasB-07&layout=compact&hide_title=true&hide_border=true)
+
 ## Skills
 ### Programming Languages
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" height="20"> **Python** – Basic knowledge
