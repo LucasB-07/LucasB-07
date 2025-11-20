@@ -45,8 +45,8 @@ All repositories are currently private. I code **90% in Python** and **10% in HT
 - Programming
 - Video editing
 - Browsing the internet
-- PC gaming
 - Watching movies and series
+- PC gaming
 
 ## Snake Animation
 <img src="./assets/snake.svg" alt="Snake animation" />
