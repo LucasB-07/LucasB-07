@@ -1,4 +1,4 @@
-# https://komarev.com/ghpvc/?username=LucasB-07&abbreviated=true&color=ff6f00
+# ABOUT ME
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
