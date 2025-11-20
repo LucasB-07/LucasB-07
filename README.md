@@ -36,11 +36,8 @@ All repositories are currently private. I code **90% in Python** and **10% in HT
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/premierepro/premierepro-original.svg" height="20"> **Premiere Pro**
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/aftereffects/aftereffects-original.svg" height="20"> **After Effects**
 
-###
-
-<br clear="both">
-
-[<img src="https://raw.githubusercontent.com/LucasB-07/LucasB-07/output/snake.svg" alt="Snake animation" />](https://raw.githubusercontent.com/LucasB-07/LucasB-07/output/snake.svg)
+### Snake Animation
+![Snake animation](./snake.svg)
 
 ###
 
