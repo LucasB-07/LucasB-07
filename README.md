@@ -36,11 +36,6 @@ All repositories are currently private. I code **90% in Python** and **10% in HT
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/premierepro/premierepro-original.svg" height="20"> **Premiere Pro**
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/aftereffects/aftereffects-original.svg" height="20"> **After Effects**
 
-### Snake Animation
-![Snake animation](./snake.svg)
-
-###
-
 ### Languages
 - <img src="https://flagcdn.com/20x15/nl.png" width="20" height="20"> – Fluent
 - <img src="https://flagcdn.com/20x15/gb.png" width="20" height="20"> – Fluent
@@ -53,3 +48,5 @@ All repositories are currently private. I code **90% in Python** and **10% in HT
 - PC gaming
 - Watching movies and series
 
+## Snake Animation
+<img src="./assets/snake.svg" alt="Snake animation" />
