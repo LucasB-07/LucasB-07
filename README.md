@@ -15,7 +15,9 @@
 
 ## Who am I?
 Hey there! My name is Lucas, a second-year Software Development student.
+
 Very interested in technology and software, with a strong passion for computers and programming. 
+
 I am social, enthusiastic, and eager to learn. My curiosity is focused on how programs work, which motivates me to discover and apply new technologies and skills.
 
 ## GitHub Stats
