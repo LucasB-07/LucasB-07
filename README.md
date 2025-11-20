@@ -40,7 +40,7 @@ All repositories are currently private. I code **90% in Python** and **10% in HT
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LucasB-07/LucasB-07/output/snake.svg" alt="Snake animation" />
+[<img src="https://raw.githubusercontent.com/LucasB-07/LucasB-07/output/snake.svg" alt="Snake animation" />](https://raw.githubusercontent.com/LucasB-07/LucasB-07/output/snake.svg)
 
 ###
 
