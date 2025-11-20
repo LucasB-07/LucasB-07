@@ -16,6 +16,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GH_TOKEN }}
           outputs: dist/snake.svg?palette=github-dark
 
       - name: Commit and push snake.svg
@@ -28,4 +29,4 @@ jobs:
           git commit -m "Update snake.svg"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
