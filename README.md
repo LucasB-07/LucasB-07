@@ -14,6 +14,7 @@
 ```
 
 ## Who am I?
+<img align="right" height="130" src="https://tenor.com/nl/view/hehe-gif-1840159130613519810.gif"  />
 Hey there! My name is Lucas, a Dutch student in my first year of Software Development. I am an IT enthusiast, fascinated by everything related to technology.
 
 I chose Software Development because it clicked with me—especially after creating my first Discord bot. That was the moment I knew this was the right direction.
