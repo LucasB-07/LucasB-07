@@ -14,15 +14,13 @@
 ```
 
 ## Who am I?
-Hey there! My name is Lucas, a Dutch student in my first year of Software Development. I am an IT enthusiast, fascinated by everything related to technology.
-
-I chose Software Development because it clicked with me—especially after creating my first Discord bot. That was the moment I knew this was the right direction.
-
-All repositories are currently private. I code **90% in Python** and **10% in HTML/CSS**.
+Hey there! My name is Lucas, a second-year Software Development student.
+Very interested in technology and software, with a strong passion for computers and programming. 
+I am social, enthusiastic, and eager to learn. My curiosity is focused on how programs work, which motivates me to discover and apply new technologies and skills.
 
 ## GitHub Stats
 
-![LucasB-07 GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasB-07&show_icons=true&theme=dark&hide_title=true&hide_border=true&card_width=310) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LucasB-07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false)
+![LucasB-07 GitHub stats]() ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LucasB-07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false)
 
 ## Skills
 ### Programming Languages
