@@ -22,12 +22,12 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 <div align="center">
 
 <img 
-  src=""
+  src="https://github-readme-stats.vercel.app/api?username=LucasB-07&show_icons=true&theme=dark&hide_title=true&hide_border=true&card_width=350" 
+  height="170"
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasB-07&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dark&hide_border=true" 
-  height="170"
+  src=""
 />
 
 </div>
