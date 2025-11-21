@@ -10,7 +10,6 @@
                       ║                                                                          ║
                       ╚══════════════════════════════════════════════════════════════════════════╝
 ```
-
 ## Who am I?
 Hey there! My name is Lucas, a second-year Software Development student.
 
