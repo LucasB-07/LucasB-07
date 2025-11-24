@@ -27,8 +27,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasB-07&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dark&hide_border=true" 
-  height="170"
+  src=""
 />
 
 </div>
