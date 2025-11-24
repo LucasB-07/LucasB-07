@@ -35,8 +35,8 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 ## Skills
 ### Programming Languages
-- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" height="20"> **Python** – Basic knowledge
-- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/csharp/csharp-original.svg" height="20"> **C#** – Beginner
+- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" height="20"> **Python** – Basic → Intermediate ✅
+- <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/csharp/csharp-original.svg" height="20"> **C#** – Beginner / Early Intermediate (OOP)
 - <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="20"> **SQL** – Beginner
 - 🌐 **REST API** – Beginner
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" height="20"> **HTML/CSS** – Beginner
