@@ -59,3 +59,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 ## My Progress
 <img src="./assets/snake.svg" alt="Snake animation" />
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=LucasB-07&theme=chartreuse-dark"
+/>
