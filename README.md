@@ -1,8 +1,5 @@
-
 <!-- MAIN CONTAINER -->
-<!-- <div style="padding: 40px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px;"> -->
 <div style="padding: 4px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px; color:#d6d6d6; text-align:center;">
-
 
 <h1 align="center" style="color:#39FF14; font-weight: bold; text-shadow: 0 0 10px #39FF14;">LucasB-07</h1>
 
@@ -54,13 +51,16 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,visualstudio,vscode,ps,pr,ae,github,html,css,discordbots&theme=dark" />
 </p>
 
-<ul style="display:inline-block; text-align:center;">
+<!-- CENTERED LIST -->
+<div align="center">
+<ul style="display:inline-block; text-align:left;">
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" height="20"> <b>Python</b> – Basic → Intermediate</li>
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/csharp/csharp-original.svg" height="20"> <b>C#</b> – Beginner / Early Intermediate (OOP)</li>
   <li><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="20"> <b>SQL</b> – Beginner</li>
   <li>🌐 <b>REST API</b> – Beginner</li>
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" height="20"> <b>HTML/CSS</b> – Beginner</li>
 </ul>
+</div>
 
 <br/>
 
@@ -69,10 +69,12 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Software" />
 </div>
 
-<ul>
+<div align="center">
+<ul style="display:inline-block; text-align:left;">
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/premierepro/premierepro-original.svg" height="20"> <b>Premiere Pro</b></li>
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/aftereffects/aftereffects-original.svg" height="20"> <b>After Effects</b></li>
 </ul>
+</div>
 
 <br/>
 
@@ -81,11 +83,13 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Languages" />
 </div>
 
-<ul>
+<div align="center">
+<ul style="display:inline-block; text-align:left;">
   <li><img src="https://flagcdn.com/20x15/nl.png" width="20"> – Fluent</li>
   <li><img src="https://flagcdn.com/20x15/gb.png" width="20"> – Fluent</li>
   <li><img src="https://flagcdn.com/20x15/de.png" width="20"> – Basic</li>
 </ul>
+</div>
 
 <br/>
 
@@ -94,13 +98,15 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Hobbies+%26+Interests" />
 </div>
 
-<ul>
+<div align="center">
+<ul style="display:inline-block; text-align:left;">
   <li>Programming</li>
   <li>Video editing</li>
   <li>Browsing the internet</li>
   <li>Watching movies and series</li>
   <li>PC gaming</li>
 </ul>
+</div>
 
 <br/>
 
