@@ -11,7 +11,22 @@
                           ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-## Who am I?
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com
+?font=Fira+Code
+&color=39FF14
+&size=28
+&duration=3500
+&pause=1000
+&backSpeed=15
+&center=true
+&vCenter=true
+&multiline=true
+&textGlow=true
+&textGlowColor=39FF14
+&random=false
+&lines=Who+am+I%3F;Second-year+Software+Developer;Tech+Enjoyer;Always+Learning" />
+</div>
 Hey there! My name is Lucas, a second-year Software Development student.
 
 Very interested in technology and software, with a strong passion for computers and programming. 
