@@ -10,7 +10,7 @@
                       ║                                                                          ║
                       ╚══════════════════════════════════════════════════════════════════════════╝
 ```
-## <span style="color:33ff00">Who am I?</span>
+## Who am I?
 Hey there! My name is Lucas, a second-year Software Development student.
 
 Very interested in technology and software, with a strong passion for computers and programming. 
@@ -18,7 +18,6 @@ Very interested in technology and software, with a strong passion for computers 
 I am social, enthusiastic, and eager to learn. My curiosity is focused on how programs work, which motivates me to discover and apply new technologies and skills.
 
 ## GitHub Stats
-
 <div align="center">
 
 <img 
@@ -32,8 +31,6 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 />
 
 </div>
-
-<hr style="border: 1px solid #33ff00; border-radius: 8px;" />
 
 ## Skills
 ### Programming Languages
