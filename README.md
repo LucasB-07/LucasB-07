@@ -10,7 +10,7 @@
                       ║                                                                          ║
                       ╚══════════════════════════════════════════════════════════════════════════╝
 ```
-## <span style="color:#39ff14">Who am I?</span>
+## <span style="color:#33ff00">Who am I?</span>
 Hey there! My name is Lucas, a second-year Software Development student.
 
 Very interested in technology and software, with a strong passion for computers and programming. 
@@ -33,7 +33,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 </div>
 
-<hr style="border: 1px solid #39ff14; border-radius: 8px;" />
+<hr style="border: 1px solid #33ff00; border-radius: 8px;" />
 
 ## Skills
 ### Programming Languages
