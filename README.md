@@ -27,7 +27,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasB-07&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dark&hide_border=true" 
+  src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=LucasB-07&count_private=false&card_width=350&show_icons=true&disable_animations=true&layout=compact&theme=dark&border_radius=18&border_color=39ff14"
   height="170"
 />
 
