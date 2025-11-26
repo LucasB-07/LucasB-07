@@ -33,6 +33,8 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 </div>
 
+<hr style="border: 1px solid #39ff14; border-radius: 8px;" />
+
 ## Skills
 ### Programming Languages
 - <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" height="20"> **Python** – Basic → Intermediate ✅
