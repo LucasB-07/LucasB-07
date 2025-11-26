@@ -11,8 +11,19 @@
                       ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 ## Who am I?
+eerste:
 <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=false&vCenter=false&lines=Who+am+I%3F" />
-![](https://img.shields.io/badge/Who%20am%20I%3F-39ff14?style=for-the-badge&labelColor=0d1117)
+Meer lijnen (smooth multi-line animation):
+<img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=false&vCenter=false&lines=Who+am+I%3F;Software+Developer;Tech+Enthusiast;Always+Learning+%E2%9C%94%EF%B8%8F" />
+Snellere of tragere typing-speed (meer stijl):
+<img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&duration=2000&center=false&vCenter=false&lines=Who+am+I%3F" />
+Cursor aanpassen (glow, blok, underscore):
+<img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&cursor=%F0%9F%92%A5&lines=Who+am+I%3F" />
+Glow-effect door schaduw (geeft neon look):
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=39ff14&size=30&center=false&vCenter=false&repeat=false&shadowColor=39ff14&lines=Who+am+I%3F" />
+Fira Code of JetBrains Mono gebruiken (developer aesthetic):
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39FF14&size=30&lines=Who+am+I%3F" />
+
 
 
 Hey there! My name is Lucas, a second-year Software Development student.
