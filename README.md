@@ -10,11 +10,7 @@
                       ║                                                                          ║
                       ╚══════════════════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=39FF14&size=26&duration=3500&pause=800&backSpeed=20&center=false&vCenter=false&multiline=true&textGlow=true&textGlowColor=39FF14&lines=Who+am+I%3F;Second-year+Software+Developer;Tech+Enjoyer;Always+learning"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1200&color=39FF14&center=false&vCenter=false&repeat=true&lines=Who+am+I%3F;Second-year+Software+Developer;Tech+Enjoyer;Always+Learning&glow=1" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1200&color=39FF14&center=false&vCenter=false&repeat=true&lines=Who+am+I%3F;Second-year+Software+Developer;Tech+Enjoyer;Always+Learning&glow=2" />
 
 Hey there! My name is Lucas, a second-year Software Development student.
 
