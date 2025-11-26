@@ -12,7 +12,7 @@
 ```
 ## Who am I?
 <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&size=28&center=false&vCenter=false&lines=Who+am+I%3F" />
-## ![](https://img.shields.io/badge/Who%20am%20I%3F-39ff14?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Who%20am%20I%3F-39ff14?style=for-the-badge&labelColor=0d1117)
 
 
 Hey there! My name is Lucas, a second-year Software Development student.
