@@ -1,7 +1,11 @@
 <!-- MAIN CONTAINER -->
 <div style="padding: 4px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px; color:#d6d6d6; text-align:center;">
 
-<h1 align="center" style="color:#39FF14; font-weight: bold; text-shadow: 0 0 10px #39FF14;">LucasB-07</h1>
+<!-- <h1 align="center" style="color:#39FF14; font-weight: bold; text-shadow: 0 0 10px #39FF14;">LucasB-07</h1> -->
+<h1 align="center" style="color:#39FF14 !important; font-weight: bold; text-shadow: 0 0 10px #39FF14;">
+  LucasB-07
+</h1>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-57-39FF14?style=for-the-badge" />
@@ -36,7 +40,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
   <img 
     src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=LucasB-07&count_private=false&card_width=440&show_icons=true&layout=compact&theme=dark&border_radius=18&border_color=33ff00"
-    height="200"
+    height="165"
   />
 </div>
 
