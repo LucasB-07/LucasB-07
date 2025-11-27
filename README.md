@@ -44,7 +44,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 <!-- SKILLS -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Skills+:" />
 </div>
 
 <p align="center">
@@ -66,7 +66,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 <!-- SOFTWARE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Software+:" />
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 <!-- LANGUAGES -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Languages+:" />
 </div>
 
 <div align="center">
@@ -95,7 +95,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 <!-- HOBBIES -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Hobbies+%26+Interests" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Hobbies+%26+Interests+:" />
 </div>
 
 <div align="center">
@@ -112,7 +112,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 <!-- PROGRESS -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=My+Progress" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=My+Progress+:" />
 </div>
 
 <div align="center">
