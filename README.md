@@ -1,7 +1,11 @@
 <!-- MAIN CONTAINER -->
 <div style="padding: 4px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px; text-align:center;">
 
-<h1 align="center" style="color:#39FF14 !important; font-weight: bold; text-shadow: 0 0 10px #39FF14;">LucasB-07</h1>
+<div align="center">
+  <span style="color:#39FF14; font-size: 40px; font-weight:bold; text-shadow: 0 0 10px #39FF14;">
+    LucasB-07
+  </span>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-57-39FF14?style=for-the-badge" />
