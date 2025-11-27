@@ -24,7 +24,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 <!-- GITHUB STATS TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=GitHub+Stats+:" />
 </div>
 
 <!-- STATS CARDS -->
