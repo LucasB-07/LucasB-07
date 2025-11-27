@@ -1,8 +1,6 @@
 <!-- MAIN CONTAINER -->
 <div style="padding: 4px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px; color:#d6d6d6; text-align:center;">
 
-<div style="padding: 4px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px; color:#d6d6d6; text-align:center;">
-
 <h1 align="center" style="color:#39FF14; font-weight: bold; text-shadow: 0 0 10px #39FF14;">LucasB-07</h1>
 
 <div align="center">
