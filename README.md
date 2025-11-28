@@ -4,7 +4,7 @@
 <h1 align="center" style="color:#39FF14 !important; font-weight: bold; text-shadow: 0 0 10px #39FF14;">LucasB-07</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-483-39FF14?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profile%20Views-71-39FF14?style=for-the-badge" />
 </div>
 
 <br/>
