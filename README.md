@@ -30,11 +30,15 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 <!-- STATS CARDS -->
 <div align="center">
   <img 
-  src="https://github-readme-stats.vercel.app/api?username=LucasB-07&show_icons=true&theme=dark&hide_title=true&hide_border=false&border_color=33ff00&border_radius=18&card_width=350"
-  height="165"
+    src="https://github-readme-stats.vercel.app/api?username=LucasB-07&show_icons=true&theme=dark&hide_title=true&hide_border=false&border_color=33ff00&border_radius=18&card_width=350"
+    height="165"
   />
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=LucasB-07&theme=dark&border_radius=18&card_width=440&card_height=165&border=33FF00&stroke=33FF00)
+  <img 
+   src="https://streak-stats.demolab.com?user=LucasB-07&theme=dark&border_radius=18&card_width=440&card_height=165&border=33FF00&stroke=33FF00" 
+   height="165"
+  />
+  
   <img 
     src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=LucasB-07&count_private=false&card_width=440&show_icons=true&layout=compact&theme=dark&border_radius=18&border_color=33ff00"
     height="165"
