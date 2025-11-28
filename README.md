@@ -34,7 +34,10 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
   height="165"
   />
 
-![LucasB-07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasB-07&theme=vue-dark&hide_border=false)
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=LucasB-07&theme=dark&hide_border=false&border_radius=18&border_color=33ff00"
+  height="165"
+/>
 
   <img 
     src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=LucasB-07&count_private=false&card_width=440&show_icons=true&layout=compact&theme=dark&border_radius=18&border_color=33ff00"
