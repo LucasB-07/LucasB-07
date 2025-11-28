@@ -35,7 +35,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
   />
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=LucasB-07&theme=dark&hide_border=false&border_radius=18&border_color=33ff00&card_width=350&locale=en"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=LucasB-07&theme=dark&hide_border=false&border_radius=18&border_color=33ff00&card_width=500&locale=en"
     height="165"
   />
 
