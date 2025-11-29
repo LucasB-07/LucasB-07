@@ -56,11 +56,11 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 <!-- CENTERED LIST -->
 <div align="center">
 <ul style="display:inline-block; text-align:left;">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" height="20"> <b>Python</b> Basic → Intermediate
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/csharp/csharp-original.svg" height="20"> <b>C#</b> Beginner / Early Intermediate (OOP)
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="20"> <b>SQL</b> Beginner
-  🌐 <b>REST API</b> Beginner
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" height="20"> <b>HTML/CSS</b> Beginner
+  <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" height="20"> <b>Python</b> Basic → Intermediate<li>
+  <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/csharp/csharp-original.svg" height="20"> <b>C#</b> Beginner / Early Intermediate (OOP)<li>
+  <li><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="20"> <b>SQL</b> Beginner<li>
+  <li>🌐 <b>REST API</b> Beginner<li>
+  <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" height="20"> <b>HTML/CSS</b> Beginner<li>
 </ul>
 </div>
 
