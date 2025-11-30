@@ -104,7 +104,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 <ul style="display:inline-block; text-align:left;">
   <li>Programming
   <li>Video editing
-  <li>Browsing the internet</li>
+  <li>Browsing the internet
   <li>Watching movies and series</li>
   <li>PC gaming</li>
 </ul>
