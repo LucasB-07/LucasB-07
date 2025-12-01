@@ -89,9 +89,9 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 <div align="center">
 <ul style="display:inline-block; text-align:left;">
-  <li><img src="https://flagcdn.com/20x15/nl.png" width="20"> Fluent
-  <li><img src="https://flagcdn.com/20x15/gb.png" width="20"> Fluent
-  <li><img src="https://flagcdn.com/20x15/de.png" width="20"> Basic
+  <li><img src="https://flagcdn.com/20x15/nl.png" width="20"> <b>Fluent</b>
+  <li><img src="https://flagcdn.com/20x15/gb.png" width="20"> <b>Fluent</b>
+  <li><img src="https://flagcdn.com/20x15/de.png" width="20"> <b>Basic</b>
 </ul>
 </div>
 
