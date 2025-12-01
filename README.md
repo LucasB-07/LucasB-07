@@ -104,7 +104,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 
 <div align="center">
 <ul style="display:inline-block; text-align:left;">
-  <li>Programming
+  <li> <b>Programming</b>
   <li>Video editing
   <li>Browsing the internet
   <li>Watching movies and series
