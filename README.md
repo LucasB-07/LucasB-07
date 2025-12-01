@@ -32,7 +32,8 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 <!-- STATS CARDS -->
 <div align="center">
   <img 
-    src=""
+    src="https://github-readme-stats.vercel.app/api?username=LucasB-07&show_icons=true&theme=dark&hide_title=true&hide_border=false&border_color=33ff00&border_radius=18&card_width=350"
+    height="165"
   />
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=LucasB-07&theme=dark&border_radius=18&card_width=440&card_height=165&border=33FF00&stroke=33FF00)
