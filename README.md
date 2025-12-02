@@ -6,7 +6,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-9-39FF14?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profile%20Views-10-39FF14?style=for-the-badge" />
 </div>
 
 <br/>
