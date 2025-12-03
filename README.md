@@ -108,7 +108,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
   <li> <b>🎬Video editing</b>
   <li> <b>🌐Browsing the internet</b>
   <li> <b>📺Watching movies and series</b>
-  <li> <b>PC gaming</b>
+  <li> <b>🎮PC gaming</b>
 </ul>
 </div>
 
