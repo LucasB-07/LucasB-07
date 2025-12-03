@@ -1,6 +1,7 @@
 <!-- MAIN CONTAINER -->
-<div style="padding: 4px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px; text-align:center;">
-
+<!-- <div style="padding: 4px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px; text-align:center;"> -->
+<div style="padding: 20px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px; text-align:center; font-family: 'Fira Code', monospace;">
+  
 <h1 align="center" style="color:#39FF14; font-weight: bold; text-shadow: 0 0 10px #39FF14;">
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" /> LucasB-07 <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" />
 </h1>
