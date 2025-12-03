@@ -102,6 +102,14 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Currently+working:" />
 </div>
 
+<div align="center">
+<ul style="display:inline-block; text-align:left;">
+  <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/csharp/csharp-original.svg" height="20"> <b>C#</b>
+</ul>
+</div>
+
+<br/>
+
 <!-- HOBBIES -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=39FF14&center=true&vCenter=true&repeat=true&lines=Hobbies+%26+Interests+:" />
