@@ -36,7 +36,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
     height="165"
   />
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=LucasB-07&theme=dark&border_radius=18&card_width=440&card_height=165&border=33FF00&stroke=33FF00)
+  
   
   <img 
     src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=LucasB-07&count_private=false&card_width=440&show_icons=true&layout=compact&theme=dark&border_radius=18&border_color=33ff00"
