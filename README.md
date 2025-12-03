@@ -108,6 +108,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 <div align="center">
 <ul style="display:inline-block; text-align:left;">
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/csharp/csharp-original.svg" height="20"> <b>C#</b>
+  <li><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="20"> <b>SQL</b>
 </ul>
 </div>
 
