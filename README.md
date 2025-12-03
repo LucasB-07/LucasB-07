@@ -52,7 +52,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,visualstudio,vscode,ps,pr,ae,github,html,css,discordbots&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,visualstudio,vscode,pr,ae,github,html,css,discordbots&theme=dark" />
 </p>
 
 <!-- CENTERED LIST -->
