@@ -110,7 +110,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 <ul style="display:inline-block; text-align:left;">
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/csharp/csharp-original.svg" height="20"> <b>C#</b>+<b>O.O.P</b>
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="20"> <b>SQL</b>
-  <li>🌐 <b>REST API</b>
+  <li><img src="https://img.icons8.com/ultraviolet/40/api-settings.png" height="20"> <b>REST API</b>
 </ul>
 </div>
 
