@@ -64,7 +64,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" height="20"> <b>Python</b> Basic → Intermediate
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/csharp/csharp-original.svg" height="20"> <b>C#</b> Beginner / Early Intermediate (OOP)
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="20"> <b>SQL</b> Beginner
-  <li><img src="https://img.icons8.com/ios/50/api-settings.png" height="20"> <b>REST API</b> Beginner
+  <li><img src="https://img.icons8.com/808080/ios/50/api-settings.png" height="20"> <b>REST API</b> Beginner
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" height="20"> <b>HTML/CSS</b> Beginner
 </ul>
 </div>
