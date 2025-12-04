@@ -80,7 +80,7 @@ I am social, enthusiastic, and eager to learn. My curiosity is focused on how pr
 <ul style="display:inline-block; text-align:left;">
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/premierepro/premierepro-original.svg" height="20"> <b>Premiere Pro</b>
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/aftereffects/aftereffects-original.svg" height="20"> <b>After Effects</b>
-  <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/photoshop/photoshop-original.svg" height="20" <b>PhotoShop</b>
+  <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/photoshop/photoshop-original.svg" height="20"> <b>PhotoShop</b>
 </ul>
 </div>
 
