@@ -7,6 +7,10 @@
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" /> ＬｕｃａｓＢ－０７ <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" />
   </h1>
 
+<div align="center"> 
+  <img src="https://fontmeme.com/permalink/251208/18051f104ca9bb82ab9236b24ada5124.png"
+</div>
+
   <!-- PROFILE VIEWS -->
 <div align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-12-39FF14?style=for-the-badge" />
