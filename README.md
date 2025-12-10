@@ -15,6 +15,7 @@
 <div align="center"
   <img src="https://img.shields.io/badge/Profile%20Views-12-39FF14?style=for-the-badge" />
 </div> 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LucasB-07&color=39FF14&style=for-the-badge" />
 </div>
