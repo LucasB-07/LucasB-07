@@ -13,6 +13,10 @@
 
   <!-- PROFILE VIEWS -->
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LucasB-07&color=39FF14&style=for-the-badge" />
+</div>
+
+<div align="center">
     <img src="https://img.shields.io/badge/Skill Issues-+13∞-39FF14?style=for-the-badge" />
 </div> 
 
@@ -20,9 +24,7 @@
     <img src="https://img.shields.io/badge/Hours Spend-∞-39FF14?style=for-the-badge" />
 </div> 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasB-07&color=39FF14&style=for-the-badge" />
-</div>
+
 
 <br/>
 
