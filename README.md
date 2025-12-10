@@ -42,7 +42,7 @@
 <b>Hey there! My name is Lucas, a second-year Software Development student.</b><br/>
 <b>Very interested in technology and software, with a strong passion for computers and programming.</b>
 <br/>
-<b></b>I am social, enthusiastic, and eager to learn. My curiosity is focused on how programs work, which motivates me to discover and apply new technologies and skills.</b>
+<b>I am social, enthusiastic, and eager to learn. My curiosity is focused on how programs work, which motivates me to discover and apply new technologies and skills.</b>
 </p>
 
 <br/>
