@@ -39,7 +39,7 @@
 </div>
 
 <p align="center" style="color:#ffffff; max-width: 650px; margin:auto; line-height: 1.6;">
-Hey there! My name is Lucas, a second-year Software Development student.<br/>
+<b>Hey there! My name is Lucas, a second-year Software Development student.</b>b<br/>
 Very interested in technology and software, with a strong passion for computers and programming.
 <br/>
 I am social, enthusiastic, and eager to learn. My curiosity is focused on how programs work, which motivates me to discover and apply new technologies and skills.
