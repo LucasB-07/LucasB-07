@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Skill Issues-+13∞-39FF14?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Skill Issues-+13-39FF14?style=for-the-badge" />
 </div> 
 
 <div align="center">
