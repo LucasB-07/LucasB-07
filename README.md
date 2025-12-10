@@ -8,7 +8,7 @@
   </h1>
 
 <div align="center"> 
-  <img src="https://fontmeme.com/permalink/251208/18051f104ca9bb82ab9236b24ada5124.png"
+  <img src="https://fontmeme.com/permalink/251208/18051f104ca9bb82ab9236b24ada5124.png" />
 </div>
 
   <!-- PROFILE VIEWS -->
