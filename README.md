@@ -47,7 +47,7 @@
   />
 
 <img 
-    src=""
+    src="https://streak-stats.demolab.com?user=LucasB-07&theme=dark&border_radius=18&card_width=440&card_height=165&border=33FF00&stroke=33FF00"
     height="165"
   />
   
