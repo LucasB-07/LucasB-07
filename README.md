@@ -16,7 +16,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Hours Spend-∞-39FF14?style=for-the-badge" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Skill Issues-15-39FF14?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skill Issues-16-39FF14?style=for-the-badge" />
 </div>
 
 <br/>
