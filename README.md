@@ -3,9 +3,9 @@
 <div style="padding: 20px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px; text-align:center; font-family: 'Fira Code', monospace;">
 
   <!-- HEADER -->
-  <h1 align="center" style="color:#39FF14; font-weight: bold; text-shadow: 0 0 10px #39FF14;">
-    <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" /> ＬｕｃａｓＢ－０７ <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" />
-  </h1>
+<h1 align="center" style="color:#39FF14; font-weight: bold; text-shadow: 0 0 10px #39FF14;">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" /> ＬｕｃａｓＢ－０７ <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="40" />
+</h1>
 
 <div align="center"> 
   <img src="https://fontmeme.com/permalink/251208/18051f104ca9bb82ab9236b24ada5124.png" />
