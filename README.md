@@ -72,7 +72,7 @@
 <div align="center">
 <ul style="display:inline-block; text-align:left;">
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" height="20"> <b>Python</b> Basic → Intermediate
-  <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/csharp/csharp-original.svg" height="20"> <b>C#</b> Beginner with (OOP)
+  <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/csharp/csharp-original.svg" height="20"> <b>C#</b> Beginner with OOP
   <li><img src="https://img.icons8.com/B5B5B5/pastel-glyph/64/api--v2.png" height="20"> <b>REST API</b> Beginner
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="20"> <b>SQL</b> Beginner
   <li><img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/javascript/javascript-original.svg" height=20> <b>Javascript</b> Beginner
