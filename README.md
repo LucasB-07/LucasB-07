@@ -63,10 +63,10 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,visualstudio,vscode,pr,ae,ps,github,js,html,css,discordbots&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,discordbots&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,pr,ae,ps,github,discordbots&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,pr,ae,ps,github,discordbots&theme=dark" />
 </p>
 
 <!-- CENTERED LIST -->
