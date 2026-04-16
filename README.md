@@ -65,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=cs,python,java,js,html,css,php,discordjs&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,pr,ae,ps,github,discordbots&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,vscode,pr,ae,ps,github,xampp,discordbots&theme=dark" />
 </p>
 
 <!-- CENTERED LIST -->
