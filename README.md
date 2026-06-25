@@ -1,4 +1,4 @@
-<!-- er: 2px solid #39Fertext-align:center;"> -->
+<!-- er: 2p #39Fertext-align:center;"> -->
 <div style="padding: 20px; background: #0d0d0d; border: 2px solid #39FF14; border-radius: 12px; text-align:center; font-family: 'Fira Code', monospace;">
 
   <!-- HEADER -->
